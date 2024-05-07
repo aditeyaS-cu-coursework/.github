@@ -6,10 +6,6 @@ Master of Science (M.S.)
 
 Computer Science
 
-<p align="left">
-<a href="https://linkedin.com/in/aditeyaaaa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="aditeyaaaa" height="40" width="40"/></a>
-</p>
-
 ### Courses
 
 ###### Aug, 2022 - Dec, 2022 (Fall, 2022)
